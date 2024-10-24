@@ -1,6 +1,7 @@
 ![Screenshot (46)](https://github.com/user-attachments/assets/1a7d2ab9-5020-4bba-805d-c0ceef9cb81d)
 
-'''
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,10 +9,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Food Gallery</title>
     <style>
-        body 
-        {
+        body {
             font-family: Arial, sans-serif;
         }
+    </style>
+</head>
+<body>
+    <!-- Your content here -->
+</body>
+</html>
+```
 
         .navbar h2
         {
