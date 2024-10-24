@@ -28,3 +28,25 @@
 </body>
 </html>
 ```
+
+CSS
+
+/* Import Roboto Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(244, 244, 84); 
+    margin: auto;
+    padding: 100px;
+}
+
+img{
+    border: 5px solid green;
+    border-radius: 100px;
+}
+
+p {
+    color: blue;
+}
+
